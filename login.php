@@ -14,7 +14,7 @@ require __DIR__ . '/../src/bootstrap.php';
 
         <div>
             <label for="password">Password:</label>
-            <input type="password" name="password" id="password">
+            <input type="password" name="passwordASDF" id="password">
         </div>
 
         <section>
